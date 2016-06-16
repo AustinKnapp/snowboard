@@ -10,7 +10,7 @@ _{ I've been attending epicodus for a week now. This is my first individual proj
 
 ## Setup/Installation Requirements
 
-* _Here is link to my github pages site https://github.com/AustinKnapp/snowboard_
+* _Here is link to my github pages site https://Austinknapp.github.io/snowboard
 * _ _
 * _ _
 * _ _
